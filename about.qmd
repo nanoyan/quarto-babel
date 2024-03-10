@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+::: {.content-visible when-profile="de"}
+über die Websites
+:::
+
+::: {.content-visible when-profile="en"}
+About the site
+:::
